@@ -8,3 +8,6 @@ added stuff
 
 Sample website with plenty of files for demos
 lecture stuff
+
+## git comparisons
+adding GIT comparison lecture
