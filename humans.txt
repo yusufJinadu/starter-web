@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> Yusuf Jinadu <twitter>
+    <name> Yusuf Jinadu Tester <twitter>
 
 # THANKS
 
