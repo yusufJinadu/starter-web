@@ -12,3 +12,4 @@ lecture stuff
 ## git comparisons
 adding GIT comparison lectur
 fork git repo
+added new shit
