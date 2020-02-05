@@ -4,7 +4,9 @@
 # TEAM
 
     <name> 
-    Yusuf Jinadu 
+    Yusuf 
+    Afolabi
+    Jinadu 
     Tester 
     Labijay94@ yahoo,com<twitter>
 
