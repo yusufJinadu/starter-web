@@ -3,8 +3,12 @@
 
 # TEAM
 
-     Yusuf Jinadu Tester 
-     labijay94@gmail.com
+    <name> 
+    Yusuf 
+    Afolabi
+    Jinadu 
+    Tester 
+    Labijay94@ yahoo,com<twitter>
 
 # THANKS
 
