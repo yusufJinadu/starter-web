@@ -7,7 +7,7 @@
     Yusuf 
     Afolabi
     Jinadu 
-    Tester 
+    Tester and dev ops
     Labijay94@Gmail.com<twitter>
 
 # THANKS
@@ -20,3 +20,4 @@
     jQuery, Modernizr
     bootstrap https
     vue react
+    ember electron
