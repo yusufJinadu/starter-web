@@ -12,7 +12,7 @@
 
 # THANKS
 
-    Yusuf Jinadu thanks all you fuckers
+    Yusuf Jinadu thanks all you fuckers for the confusing rebase
 
 # TECHNOLOGY COLOPHON
 
