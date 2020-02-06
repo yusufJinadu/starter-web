@@ -12,4 +12,4 @@ lecture stuff
 ## git comparisons
 adding GIT comparison lectur
 fork git repo
-added new shit to newer shit and much more newer shit
+added new shit to newer shit and much more newer shit and now checking rebase
