@@ -8,6 +8,7 @@ added stuff
 
 Sample website with plenty of files for demos
 lecture stuff
+adding new lectures of stash
 
 ## git comparisons
 adding GIT comparison lectur
